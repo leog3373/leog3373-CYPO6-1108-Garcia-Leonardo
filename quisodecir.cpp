@@ -69,5 +69,7 @@ int _tmain(int argc, _TCHAR* argv[])
 			printf("%s %i\n", szListaFinal[j], iPeso[j]);
 	}
 
-	//return 0;
+	return 0;
 }
+//cambio1
+
